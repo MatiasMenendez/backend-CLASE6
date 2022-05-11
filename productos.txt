@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Yerba Mate",
+    "price": 100,
+    "thumbnail": "www.fotoProducto.com.ar/foto1.png",
+    "id": 1
+  },
+  {
+    "title": "Mate de calabaza",
+    "price": 300,
+    "thumbnail": "www.fotoProducto.com.ar/foto2.png",
+    "id": 2
+  },
+  {
+    "title": "Bombilla",
+    "price": 50,
+    "thumbnail": "www.fotoProducto.com.ar/foto3.png",
+    "id": 3
+  },
+  {
+    "title": "Mate de plastico",
+    "price": 200,
+    "thumbnail": "www.fotoProducto.com.ar/foto4.png",
+    "id": 4
+  }
+]
